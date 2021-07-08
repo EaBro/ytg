@@ -1,2 +1,0 @@
-# ytg
-Youtube Thumbnail Generator
